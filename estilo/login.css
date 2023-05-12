@@ -121,7 +121,7 @@ color: #F0FFFF94;
     height: auto;
 }
 #img{
-    width: 27vw;
+    display: none;
 }
 .card-login{
     width: 90%;
