@@ -108,7 +108,10 @@ color: #F0FFFF94;
     
 }
 @media screen and (max-width:600px){
-.main-login{
+
+body{
+    background-color: #2b134b;
+}    .main-login{
     flex-direction: column;
     
 }
